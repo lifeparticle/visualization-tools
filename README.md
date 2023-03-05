@@ -1,7 +1,8 @@
-| Tool         | Type         | Price             | Collaboration | Export Formats  |
-| ------------ | ------------ | -----------------| ------------- | --------------- |
-| Canva        | Graphic design | Freemium        | Yes           | PNG, JPG, PDF, SVG |
-| Lucidchart   | Diagramming  | Freemium         | Yes           | PDF, PNG, JPG, SVG |
-| Diagrams.net | Diagramming  | Free             | Yes           | PNG, JPG, SVG, PDF |
-| Excalidraw   | Whiteboard   | Free             | Yes           | PNG, SVG         |
-| Mermaid      | Diagramming  | Free             | No            | PNG, SVG         |
+| Tool                                      | Type           | Price                                            | Collaboration                                           | Export Formats                                                                                                                 |
+| ----------------------------------------- | -------------- | ------------------------------------------------ | ------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| [Canva](https://www.canva.com/)           | Graphic design | [Freemium](https://www.canva.com/pricing/)       | [Yes](https://www.canva.com/for-teams/)                 | [JPG, PNG, SVG, PDF](https://www.canva.com/en_au/help/download-file-types/)                                                    |
+| [Lucidchart](https://www.lucidchart.com/) | Diagramming    | [Freemium](https://lucid.app/pricing/lucidchart) | [Yes](https://www.lucidchart.com/pages/teams)           | [PDF, PNG, JPEG, SVG](https://lucidchart.zendesk.com/hc/en-us/articles/360001287223-Export-and-print-your-Lucidchart-document) |
+| [Diagrams.net](https://www.diagrams.net/) | Diagramming    | [Free](https://www.diagrams.net/about)           | [Yes](https://www.diagrams.net/doc/faq/share-diagrams)  | [.drawio, .xml, PNG, SVG, JPEG, HTML, PDF](https://www.diagrams.net/doc/faq/export-diagram)                                    |
+| [Excalidraw](https://excalidraw.com/)     | Whiteboard     | [Freemium](https://plus.excalidraw.com/pricing)  | [Yes](https://plus.excalidraw.com/excalidraw-for-teams) | .excalidraw, PNG, SVG                                                                                                          |
+| [Mermaid](https://mermaid.js.org/)        | Diagramming    | Free                                             | No                                                      | PNG, SVG                                                                                                                       |
+
